@@ -1,0 +1,20 @@
+#imagem{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+
+}
+
+#cinza{
+    background-color: rgb(212, 203, 203);
+}
+
+li{
+    text-align: left;
+}
+
+#cinza2 h1{
+    color: blue;
+    background-color: rgb(140, 182, 219);
+}
